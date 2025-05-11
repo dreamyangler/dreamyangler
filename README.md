@@ -6,7 +6,7 @@
 - 📫 Interested in DeFi, ReFi, and RWA blockchains.
 - 👯 I’m looking to collaborate on intersting blockchain projects to learn Go, Rust and smart contracts technology.
 - 📄 Software developer with wide experience in various areas.
-- 📧 Reach me by Email: [dreamyangler@gmail.com@gmail.com](mailto:dreamyangler@gmail.com)
+- 📧 Reach me by Email: [DreamyAngler@gmail.com](mailto:DreamyAngler@gmail.com)
 - 🌍 I speak English
 
 ---
